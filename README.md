@@ -51,4 +51,3 @@ The project implements a Convolutional Neural Network, a class of deep neural ne
 
 * `handnumbers_id.ipynb`: The Jupyter Notebook containing the Python code for data loading, model definition, training, evaluation, and visualization.
 * `README.md`: This file, providing an overview of the project.
-* **(Optional)** `requirements.txt`: A file listing all Python dependencies for easy environment setup.
